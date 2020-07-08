@@ -1,0 +1,38 @@
+@media (max-width: 992px) {
+  nav > ul {
+    height: 80px;
+    width: 60%;
+    text-align: center;
+  }
+
+  #weBuild {
+    text-align: center;
+  }
+  #list {
+    padding-left: 4rem;
+  }
+
+  #list h5 {
+    font-size: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+
+  #black {
+    width: 24rem;
+  }
+
+  #bottom-links {
+    display: flex;
+    flex-wrap: wrap;
+    width: 99%;
+  }
+
+  #egg {
+    right: 2.1rem;
+  }
+
+  #links {
+    right: 0.7rem;
+  }
+}
